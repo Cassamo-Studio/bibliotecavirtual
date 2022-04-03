@@ -2,6 +2,7 @@
     "data": "16/07/2022",
     "descricao_curta": "Nova versão da biblioteca virtual disponível.",
     "ignorar": "false",
+    "ignorarButton": "MAIS TARDE",
     "imagem1": "https",
     "imagem2": "https",
     "imagem3": "https",
@@ -10,6 +11,6 @@
     "novidade": null,
     "provedor": "Google Play Store",
     "tamanho": "6MB",
-    "versao": "1.0.1",
+    "versao": "1.0",
     "video": "https"
 }]
